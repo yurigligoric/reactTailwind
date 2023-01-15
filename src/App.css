@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* color */
+.bg-primary {
+  background: #0F172A;
+}
+
+.bg-secondery {
+  background: #1E293B;
+}
+
+.bg-accent {
+  background: #7477FF;
+}
+
+.text-accent {
+  color: #7477FF;
+} 
